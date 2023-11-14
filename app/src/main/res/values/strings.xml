@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="head">ค่าดัชนีมวลกาย</string>
+    <string name="input_weight">น้ำหนัก(กิโลกรัม)</string>
+    <string name="input_height">ส่วนสูง(เซนติเมตร)</string>
+    <string name="mass">ค่าดัชนีมวลกาย</string>
+    <string name="estimate">อยู่ในเกณฑ์</string>
+    <string name="evaluate">คำนวณ</string>
+
+    <string name="edit1">kg</string>
+    <string name="edit2">cm</string>
+    <string name="edit3">BMI</string>
+    <string name="edit4">Result</string>
+
+    <string name="severe">ผอมมาก</string>
+    <string name="moderate">ผอมปานกลาง</string>
+    <string name="mild">ผอมเล็กน้อย</string>
+
+    <string name="nor">ปกติ</string>
+
+    <string name="over">น้ำหนักเกิน</string>
+    <string name="obI">โรคอ้วนขั้นที่ 1</string>
+    <string name="obII">โรคอ้วนขั้นที่ 2</string>
+    <string name="obIII">โรคอ้วนขั้นที่ 3</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+
+    <string name="nulll">ไม่สามารถคำนวณค่าได้</string>
+
+    <string name="header">ประวัติค่าดัชนีมวลกาย</string>
+    <string name="date">วันที่</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="bmi">ดัชนีมวลกาย</string>
+    <string name="standard">อยู่ในเกณฑ์</string>
+    <string name="history">htr</string>
+</resources>

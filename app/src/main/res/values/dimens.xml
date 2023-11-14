@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">5dp</dimen>
+    <dimen name="marginTop2">8dp</dimen>
+    <dimen name="marginTop3">120dp</dimen>
+    <dimen name="marginTop4">20dp</dimen>
+    <dimen name="marginLR">40dp</dimen>
+    <dimen name="marginLR2">60dp</dimen>
+
+    <dimen name="word">30sp</dimen>
+
+
+</resources>

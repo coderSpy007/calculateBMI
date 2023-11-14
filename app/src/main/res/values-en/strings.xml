@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="head">Body Mass Index</string>
+    <string name="input_weight">Weight(kg)</string>
+    <string name="input_height">Height(cm)</string>
+    <string name="mass">BMI</string>
+    <string name="estimate">Result</string>
+    <string name="evaluate">Calculate</string>
+
+    <string name="edit1">kg</string>
+    <string name="edit2">cm</string>
+    <string name="edit3">BMI</string>
+    <string name="edit4">Result</string>
+
+    <string name="severe">Severe Thinness</string>
+    <string name="moderate">Moderate Thinness</string>
+    <string name="mild">Mild Thinness</string>
+
+    <string name="nor">Normal</string>
+
+    <string name="over">Overweight</string>
+    <string name="obI">Obese Class 1</string>
+    <string name="obII">Obese Class 2</string>
+    <string name="obIII">Obese Class 3</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+
+    <string name="nulll">Undefine</string>
+
+    <string name="header">ประวัติค่าดัชนีมวลกาย</string>
+    <string name="date">วันที่</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="bmi">ดัชนีมวลกาย</string>
+    <string name="standard">อยู่ในเกณฑ์</string>
+    <string name="history">htr</string>
+
+</resources>
