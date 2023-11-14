@@ -1,10 +1,10 @@
 # BMI Calculate
 Feature
 
--Calculate BMI 
+- Calculate BMI 
 
--Give result of health
+- Give result of health
 
--See history of calculate
+- See history of calculate
 
--Reset history
+- Reset history
